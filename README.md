@@ -1,3 +1,4 @@
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/3ww6qma7b4/badge.svg)](https://msrit.ask.thili.ai/b/3ww6qma7b4)
 # Incident Response Training Game
 
 Play a three-round fictional dispatch exercise. Read the incident history, inspect the model's top three forecasts, predict the next event, and commit up to two different units before the report is revealed. Each dispatch consumes one unit from the scenario's finite stock.
